@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ADITY SINHA</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer and Web Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
 
-- ⚡ Fun fact **I an funny🙂**
+- ⚡ Fun fact **I an funny🙂 and most of the time serious.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
